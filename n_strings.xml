@@ -8,10 +8,10 @@
      <string name="account_after_sale_order">Сервисное обслуживание</string>
      <string name="account_chat_text">Онлайн помощь</string>
      <string name="account_coupon">Скидочные купоны</string>
-     <string name="account_customer_service_error">网络出错</string>
-     <string name="account_customer_service_online">咨询在线客服</string>
-     <string name="account_customer_service_online_tip">7x24小时为您解决问题</string>
-     <string name="account_customer_service_tel">致电客服人员</string>
+     <string name="account_customer_service_error">Ошибка сети</string>
+     <string name="account_customer_service_online">Сервис онлайн консультаций</string>
+     <string name="account_customer_service_online_tip">Наш график работы 7x24</string>
+     <string name="account_customer_service_tel">Call центр</string>
      <string name="account_customer_service_tel_tip">8:00－18:00，仅收市话费</string>
      <string name="account_deliver_list">Доставка</string>
      <string name="account_express_info">Доставка</string>
