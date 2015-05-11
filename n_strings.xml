@@ -16,7 +16,7 @@
      <string name="account_deliver_list">Доставка</string>
      <string name="account_express_info">Доставка</string>
      <string name="account_express_list">В пути</string>
-     <string name="account_express_receiver">收货人:</string>
+     <string name="account_express_receiver">Адресат:</string>
      <string name="account_favorite">В избранное</string>
      <string name="account_hint_text">E-mail/№ телефона/ID Mi Аккаунта</string>
      <string name="account_lastst_express_info">最新物流动态</string>
